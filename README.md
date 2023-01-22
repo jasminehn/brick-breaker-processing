@@ -1,12 +1,12 @@
-# Brick Breaker Processing
+# 🧱 Brick Breaker in Processing
  
-As a final project for my first programming class in college, Software Development (CS128-52), we were tasked with creating a project in Processing. 
+As a final project for my first programming class in college, Software Development (CS128-52), we were tasked with creating a project in Processing. This project is a version of Brick Breaker written in Processing.
 
 ---
 ### Intro Screen
 ![image](https://user-images.githubusercontent.com/88569965/213895559-90086ca3-d804-400d-a4e5-d48899fed0b1.png)
 
-Each time the game is started, the color theme is chosen at random.
+Each time the game is started, the color theme is chosen at random. The color can be seen by hovering over the `PLAY` button.
 
 ---
 ### Select Game Mode
