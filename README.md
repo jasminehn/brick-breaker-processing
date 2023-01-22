@@ -1,6 +1,6 @@
 # 🧱 Brick Breaker in Processing
  
-As a final project for my first programming class in college, Software Development (CS128-52), we were tasked with creating a project in Processing. This project is a version of Brick Breaker written in Processing.
+As a final project for my first programming class in college, Software Development (CS128-52), we were tasked with creating a project in Processing. This project is a version of Brick Breaker written in Processing, created and written in Fall 2018.
 
 ---
 ### Intro Screen
