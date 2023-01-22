@@ -6,10 +6,10 @@ As a final project for my first programming class in college, Software Developme
 ### Intro Screen
 ![image](https://user-images.githubusercontent.com/88569965/213895559-90086ca3-d804-400d-a4e5-d48899fed0b1.png)
 
-Each time the game is started, the color theme is chosen at random. The color can be seen by hovering over the `PLAY` button.
+Each time the game is started, the color theme is chosen at random. The color theme determines what color the bricks will be during gameplay. The color can be seen by hovering over the `PLAY` button.
 
 ---
-### Select Game Mode
+### Game Mode
 ![image](https://user-images.githubusercontent.com/88569965/213895572-075c014d-3a80-4b59-a4e3-2c0559d35a5c.png)
 
 The player can play with either the keyboard or the mouse to maneuver the paddle. There is also a hidden "secret mode" that does something special. See if you can find it!
